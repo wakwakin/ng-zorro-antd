@@ -2,6 +2,7 @@
   "name": "ng-zorro-antd",
   "version": "0.0.0-NOT-USED",
   "license": "MIT",
+  "repository": "https://github.com/wakwakin/ng-zorro-antd",
   "description": "An enterprise-class UI components based on Ant Design and Angular",
   "engines": {
     "node": ">=12"
